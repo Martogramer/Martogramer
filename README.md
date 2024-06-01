@@ -2,16 +2,14 @@
 ```markdown
 # ¡Hola! Soy Martín 👋
 
-¡Bienvenido a mi perfil de GitHub! Soy un desarrollador de software apasionado por la tecnología y la innovación. Me encanta aprender cosas nuevas y contribuir a proyectos interesantes.
+¡Bienvenido a mi perfil de GitHub! Soy un desarrollador de software apasionado por la tecnología y la innovación.
 
 ## Sobre Mí
 
-- 🌱 Actualmente estoy aprendiendo: **[Tecnología/Framework/Biblioteca]**
+- 🌱 Actualmente estoy aprendiendo: **PowerBY**
 - 👯 Estoy buscando colaborar en: **Proyectos de código abierto** y **Startups tecnológicas**
-- 🤔 Estoy buscando ayuda con: **[Desafíos actuales o áreas en las que necesitas ayuda]**
-- 💬 Pregúntame sobre: **Desarrollo de software, [Lenguajes de programación], [Tecnologías específicas]**
-- 📫 Cómo contactarme: **[Tu email]** o **[Tus redes sociales]**
-- ⚡ Dato curioso: **[Algo interesante sobre ti]**
+- 💬 Pregúntame sobre: **Desarrollo de software, Node.js, React.js**
+- ⚡ Dato curioso: **Estudio una Tecnicatura en Software Libre en la Universidad**
 
 ## Tecnologías y Herramientas
 

@@ -19,23 +19,10 @@
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
-## Proyectos Destacados
-
-### [Nombre del Proyecto 1](URL del proyecto)
-Descripción breve del proyecto. Puedes mencionar las tecnologías utilizadas, los desafíos enfrentados y lo que has aprendido.
-
-### [Nombre del Proyecto 2](URL del proyecto)
-Descripción breve del proyecto. Puedes mencionar las tecnologías utilizadas, los desafíos enfrentados y lo que has aprendido.
-
-### [Nombre del Proyecto 3](URL del proyecto)
-Descripción breve del proyecto. Puedes mencionar las tecnologías utilizadas, los desafíos enfrentados y lo que has aprendido.
-
 ## Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TuUsuarioGitHub&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Martogramer&show_icons=true&theme=radical)
 
 ## Conéctate Conmigo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](URL de tu LinkedIn)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](URL de tu Twitter)
-[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram)](URL de tu Instagram)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)]

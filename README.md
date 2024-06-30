@@ -7,7 +7,7 @@
 - 🌱 Actualmente estoy aprendiendo: **PowerBY**
 - 👯 Estoy buscando colaborar en: **Proyectos de código abierto** y **Startups tecnológicas**
 - 💬 Pregúntame sobre: **Desarrollo de software, Node.js, React.js**
-- ⚡ Dato curioso: **Estudio una Tecnicatura en Software Libre en la Universidad**
+- ⚡ Dato curioso: **Estudio una Tecnicatura en Software Libre en UNL-FIyCH**
 
 ## Tecnologías y Herramientas
 

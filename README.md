@@ -18,7 +18,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![MongoDb](https://img.shields.io/badge/-MongoDb-black?style=flat-square&logo=git)
+![MongoDb](https://img.shields.io/badge/-MongoDb-black?style=flat-square&logo=mongodb)
 
 ## Estadísticas de GitHub
 

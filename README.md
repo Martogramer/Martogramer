@@ -13,16 +13,16 @@
 
 ![JavaScript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 ![MongoDb](https://img.shields.io/badge/-MongoDb-black?style=flat-square&logo=mongodb)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-black?style=flat-square&logo=tailwindcss)
 ![Zustand](https://img.shields.io/badge/-Zustand-black?style=flat-square&logo=zustand)
-![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 
 ## Estadísticas de GitHub
 

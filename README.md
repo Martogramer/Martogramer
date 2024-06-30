@@ -19,6 +19,10 @@
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![MongoDb](https://img.shields.io/badge/-MongoDb-black?style=flat-square&logo=mongodb)
+![TailwindCss](https://img.shields.io/badge/-TailwindCss-black?style=flat-square&logo=tailwindcss)
+![Zustand](https://img.shields.io/badge/-Zustand-black?style=flat-square&logo=zustand)
+![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 
 ## Estadísticas de GitHub
 

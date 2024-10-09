@@ -4,7 +4,7 @@
 
 ## Sobre Mí
 
-- 🌱 Actualmente estoy aprendiendo: **PowerBY**
+- 🌱 Actualmente estoy aprendiendo: **Spring - Java**
 - 👯 Estoy buscando colaborar en: **Proyectos de código abierto** y **Startups tecnológicas**
 - 💬 Pregúntame sobre: **Desarrollo de software, MERN stack**
 - ⚡ Dato curioso: **Estudio una Tecnicatura Universitaria en Software Libre en UNL-FIyCH**
